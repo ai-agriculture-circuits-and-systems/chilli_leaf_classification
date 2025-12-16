@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6080777224,
+      "width": 2345,
+      "height": 3735,
+      "file_name": "IMG_4095.JPG",
+      "size": 1036039,
+      "format": "JPEG",
+      "url": "",
+      "hash": "9c636915cfb06487a6f0b958053df5b6",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8418684224,
+      "image_id": 6080777224,
+      "category_id": 3786771224,
+      "segmentation": [],
+      "area": 8758575,
+      "bbox": [
+        0,
+        0,
+        2345,
+        3735
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3786771224,
+      "name": "cercospora",
+      "supercategory": "cropped"
+    }
+  ]
+}
