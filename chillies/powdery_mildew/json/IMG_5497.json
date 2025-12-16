@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9070586684,
+      "width": 3417,
+      "height": 2298,
+      "file_name": "IMG_5497.jpg",
+      "size": 922045,
+      "format": "JPEG",
+      "url": "",
+      "hash": "913b4727c93aca0ccdda6872f0110887",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9336139684,
+      "image_id": 9070586684,
+      "category_id": 4973254684,
+      "segmentation": [],
+      "area": 7852266,
+      "bbox": [
+        0,
+        0,
+        3417,
+        2298
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4973254684,
+      "name": "powdery mildew",
+      "supercategory": "cropped"
+    }
+  ]
+}

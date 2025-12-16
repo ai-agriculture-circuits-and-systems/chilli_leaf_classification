@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4942144636,
+      "width": 1718,
+      "height": 1470,
+      "file_name": "IMG_4737.JPG",
+      "size": 297154,
+      "format": "JPEG",
+      "url": "",
+      "hash": "ba7cd3c0d2dc6b62074aafb0271af3a9",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7997270636,
+      "image_id": 4942144636,
+      "category_id": 8449515636,
+      "segmentation": [],
+      "area": 2525460,
+      "bbox": [
+        0,
+        0,
+        1718,
+        1470
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8449515636,
+      "name": "nutritional",
+      "supercategory": "cropped"
+    }
+  ]
+}
