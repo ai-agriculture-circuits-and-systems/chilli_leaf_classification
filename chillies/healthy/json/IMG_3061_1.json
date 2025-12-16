@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6725344697,
+      "width": 882,
+      "height": 916,
+      "file_name": "IMG_3061_1.jpg",
+      "size": 167646,
+      "format": "JPEG",
+      "url": "",
+      "hash": "d4d8f97ff73ac3d7651b188025b95b98",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6731977697,
+      "image_id": 6725344697,
+      "category_id": 7659369697,
+      "segmentation": [],
+      "area": 807912,
+      "bbox": [
+        0,
+        0,
+        882,
+        916
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7659369697,
+      "name": "healthy",
+      "supercategory": "cropped"
+    }
+  ]
+}

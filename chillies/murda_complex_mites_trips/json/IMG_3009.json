@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5886092986,
+      "width": 3178,
+      "height": 3263,
+      "file_name": "IMG_3009.jpg",
+      "size": 1420427,
+      "format": "JPEG",
+      "url": "",
+      "hash": "e2c6907a6203e9938479b4aaf35dee17",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7144603986,
+      "image_id": 5886092986,
+      "category_id": 5419186986,
+      "segmentation": [],
+      "area": 10369814,
+      "bbox": [
+        0,
+        0,
+        3178,
+        3263
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5419186986,
+      "name": "murda complex(mites,trips)",
+      "supercategory": "cropped"
+    }
+  ]
+}
